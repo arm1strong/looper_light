@@ -1,0 +1,14 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+app_data.c:36:17:app_changeEndian	40	static
+app_data.c:51:6:app_sendMsg	16	static
+app_data.c:98:6:app_revDebugMsg	16	static
+app_data.c:106:6:app_revLoRa1Msg	16	static
+app_data.c:117:6:app_revRS4851Msg	16	static
+app_data.c:126:6:app_revRS4852Msg	16	static
+app_data.c:135:6:app_revCat1Msg	16	static
+app_data.c:143:6:app_connectServer	24	static
+app_data.c:152:6:app_restartCat1	4	static
+app_data.c:160:6:app_registCat1	4	static
+app_data.c:169:6:app_revBLEMsg	16	static
+app_data.c:184:6:app_sendProtocolMsg	128	static
+app_data.c:332:6:app_procProtocolMsg	592	static

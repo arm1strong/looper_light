@@ -1,0 +1,4 @@
+drv_cat1.c:29:13:drv_sendATCmd	40	static
+drv_cat1.c:55:13:drv_sendData	16	static
+drv_cat1.c:74:6:drv_initCat1	24	static
+drv_cat1.c:92:10:drv_pollSCat1Events	24	static

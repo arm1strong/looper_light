@@ -1,0 +1,8 @@
+drv_sx1278.c:33:13:drv_switchReceiveMode	8	static
+drv_sx1278.c:42:13:drv_switchTransmitMode	8	static
+drv_sx1278.c:50:13:drv_sendLoRaData	16	static
+drv_sx1278.c:58:14:drv_setLoRaResetLevel	24	static
+drv_sx1278.c:72:13:drv_getDIO0Level	32	static
+drv_sx1278.c:88:14:drv_setLoRaNSSLevel	24	static
+drv_sx1278.c:105:6:drv_initSX1278	24	static
+drv_sx1278.c:145:10:drv_pollLoRaEvents	24	static

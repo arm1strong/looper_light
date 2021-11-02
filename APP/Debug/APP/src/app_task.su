@@ -1,0 +1,6 @@
+core_cm4.h:1939:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+app_task.c:69:6:vApplicationIdleHook	4	static
+app_task.c:83:6:app_mainTask	32	static
+app_task.c:278:6:app_communicationTask	16	static
+app_task.c:291:6:app_driverTask	16	static
+app_task.c:313:6:app_createAllTask	8	static

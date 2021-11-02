@@ -1,0 +1,3 @@
+app_protocol.c:13:23:getCrc16	24	static
+app_protocol.c:35:6:app_packProtocolMsg	40	static
+app_protocol.c:120:6:app_unpackProtocolMsg	144	static

@@ -1,0 +1,3 @@
+hal_spi.c:12:6:hal_initSPI	16	static
+hal_spi.c:60:6:hal_sendSPIBytes	24	static
+hal_spi.c:88:6:hal_readSPIBytes	24	static

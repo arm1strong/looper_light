@@ -1,0 +1,2 @@
+hal_wdg.c:5:6:hal_initWdg	8	static
+hal_wdg.c:17:6:hal_feedWdg	8	static

@@ -1,0 +1,4 @@
+hal_gpio.c:24:6:hal_initGPIO	48	static
+hal_gpio.c:77:6:hal_setGPIOLevel	8	static
+hal_gpio.c:86:6:hal_toggleGPIOLevel	8	static
+hal_gpio.c:96:9:hal_getGPIOLevel	8	static

@@ -1,0 +1,3 @@
+drv_debug.c:8:13:drv_sendDebugData	16	static
+drv_debug.c:16:6:drv_initDebug	16	static
+drv_debug.c:28:6:drv_pollDebugEvents	16	static

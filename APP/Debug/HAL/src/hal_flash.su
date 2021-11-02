@@ -1,0 +1,3 @@
+hal_flash.c:7:6:hal_programFlash	32	static
+hal_flash.c:37:6:hal_readFlash	32	static
+hal_flash.c:49:19:hal_eraseFlash	48	static

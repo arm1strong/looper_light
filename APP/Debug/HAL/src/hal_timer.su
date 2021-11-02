@@ -1,0 +1,2 @@
+hal_timer.c:13:6:hal_initTimer	8	static
+hal_timer.c:189:6:hal_setPulse	16	static

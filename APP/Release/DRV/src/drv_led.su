@@ -1,0 +1,8 @@
+drv_led.c:11:13:drv_writeSysLED	24	static
+drv_led.c:19:13:drv_writeNetLED	24	static
+drv_led.c:27:13:drv_writeDataLED	24	static
+drv_led.c:35:13:drv_readSysLED	4	static
+drv_led.c:43:13:drv_readNetLED	4	static
+drv_led.c:51:13:drv_readDataLED	4	static
+drv_led.c:60:6:drv_initLED	24	static
+drv_led.c:85:6:drv_pollLEDEvent	16	static

@@ -1,0 +1,2 @@
+drv_pwm2iv.c:6:13:drv_setPWM2IV	16	static
+drv_pwm2iv.c:20:6:drv_initPWM2IV	24	static

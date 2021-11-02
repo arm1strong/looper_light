@@ -1,0 +1,2 @@
+hal_adc.c:5:6:hal_initADC	24	static
+hal_adc.c:39:10:hal_getADC	40	static

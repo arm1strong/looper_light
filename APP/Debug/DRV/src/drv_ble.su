@@ -1,0 +1,3 @@
+drv_ble.c:8:13:drv_sendBLEData	16	static
+drv_ble.c:16:6:drv_initBLE	16	static
+drv_ble.c:28:6:drv_pollBLEEvents	16	static

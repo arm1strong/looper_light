@@ -1,0 +1,4 @@
+drv_485.c:11:13:drv_sendRS485_1_Data	24	static
+drv_485.c:21:13:drv_sendRS485_2_Data	24	static
+drv_485.c:31:6:drv_initRS485	24	static
+drv_485.c:56:6:drv_pollRS485Events	16	static

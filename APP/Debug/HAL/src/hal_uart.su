@@ -1,0 +1,3 @@
+hal_uart.c:16:6:hal_initUART	16	static
+hal_uart.c:116:6:hal_sendUARTBytes	16	static
+hal_uart.c:157:1:__io_putchar	16	static
